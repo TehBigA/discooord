@@ -1,0 +1,5 @@
+*.sublime-project
+*.sublime-workspace
+/__main__.py
+/res
+*.pyc
