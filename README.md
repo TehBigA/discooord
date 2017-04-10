@@ -3,7 +3,7 @@ Discord API for creating bots.
 
 **This project is still in its infancy and may contain bugs or not fully implement the [Discord API](https://discordapp.com/developers/docs/intro).**
 
-This is a symptom of starting this for a gaming community and as a learning experience (so implementation has mostly been as needed). Also I didn't like the existing libraries I came across. Now that I'm putting this up here I hope it motivates me to really polish this off.
+This is a byproduct of writing a bot for a gaming community and as a learning experience (so implementation has mostly been as needed). Also I didn't like the existing libraries I came across. Now that I'm putting this up here I hope it motivates me to really polish this off.
 
 ## Requirements
 - requests
